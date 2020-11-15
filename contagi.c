@@ -1,3 +1,9 @@
+/*
+Author: Michele Alladio
+es: prende i dati da una lista di dati dati.csv sul coronavirus nelle diverse regioni, stampa il file e calcola
+la top 3 delle regioni con più terapie intensive, il totale delle terapie intensive e la top 3 delle regioni con meno casi totali.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
