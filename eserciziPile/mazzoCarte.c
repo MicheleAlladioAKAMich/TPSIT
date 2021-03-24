@@ -1,6 +1,6 @@
 /*
 Author: Michele Alladio
-es: 
+es: Distribuire un mazzo di carte caricato opportunamente in una pila a due giocatori usando le pile
 */
 
 #include <stdlib.h>
