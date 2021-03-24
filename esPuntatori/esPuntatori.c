@@ -1,7 +1,7 @@
 /*
 Author: Michele Alladio
 Date: 01/10/20
-es: esercizio puntatori
+es: semplice esercizio dimostrativo sull'uso dei puntatori
 */
 
 #include <stdlib.h>
