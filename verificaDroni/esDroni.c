@@ -1,4 +1,8 @@
-//Author: Michele Alladio
+"""
+Author: Michele Alladio
+Leggere le anomalie di un drone da un file e confrontarle con un secondo file per scoprire la latitudine e la longitudine a cui si sono 
+presentati questi errori
+"""
 
 #include <stdio.h>
 #include <stdlib.h>
