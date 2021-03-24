@@ -1,3 +1,7 @@
+"""
+Author: Michele Aladio
+es: leggere da un file csv delle canzoni e creare una playlist random utilizzando le liste
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
