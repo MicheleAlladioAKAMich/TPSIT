@@ -1,7 +1,6 @@
 /*
 Author: Michele Alladio
 Date: 08/10/20
-es:
 */
 
 #include <stdlib.h>
