@@ -1,7 +1,7 @@
 /*
 Author: Michele Alladio
 Date: 24/09/20
-es: esercizio covid
+es: esercizio covid, simulare l'aumento di contagi dovuti al covid in base all'indice di contagio e alle persone totali
 */
 
 #include <stdlib.h>
