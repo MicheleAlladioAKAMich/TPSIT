@@ -1,7 +1,7 @@
 /*
 Author: Michele Alladio
 Date: 08/10/20
-es:
+es: algoritmo di Run Lenght Encoding
 */
 
 #include <stdlib.h>
