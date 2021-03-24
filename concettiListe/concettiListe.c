@@ -1,3 +1,8 @@
+"""
+Author: Michele Alladio
+es: Concetti utili nell'uso delle liste
+"""
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
